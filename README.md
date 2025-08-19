@@ -5,7 +5,7 @@
 
 <div align="center">
 <p>
-I am a <b>Systems and Computing Engineering</b> student at <b>Universidad de los Andes</b>, currently completing my Master's degree.  
+I am a <b>Systems and Computing Engineering</b> from <b>Universidad de los Andes</b>, currently completing my Master's degree.  
 I specialize as a <b>developer and researcher in Extended Reality (XR)</b>, passionate about building the next generation of immersive and interactive applications.
 </p>
 </div>

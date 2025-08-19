@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/fYfhUmrE4tQ4S5I5iG/giphy.gif" width="200"/>
   <h1><b>Hello! I'm Juan Esteban Rodríguez</b> 👋</h1>
 </div>
 
@@ -9,8 +8,6 @@ I am a <b>Systems and Computing Engineering</b> from <b>Universidad de los Andes
 I specialize as a <b>developer and researcher in Extended Reality (XR)</b>, passionate about building the next generation of immersive and interactive applications.
 </p>
 </div>
-
----
 
 <h2 align="center"><b>🛠️ My Tech Stack</b></h2>
 <div align="center">
@@ -47,16 +44,12 @@ PhaseSpace | Animation retargeting in Blender, MotionBuilder, and Unity for virt
 </p>
 </div>
 
----
-
 <h2 align="center"><b>📊 GitHub Stats</b></h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Juanes1516&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats for Juanes1516"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanes1516&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Most Used Languages by Juanes1516"/>
 </div>
-
----
 
 <h2 align="center"><b>🚀 Featured Projects</b></h2>
 <div align="center">
@@ -75,7 +68,7 @@ A digital twin of the Colivri laboratory at Universidad de los Andes, developed 
 <p>
 <b>Technologies:</b> C#, Unity, VR
 </p>
-<a href="https://github.com/Juanes1516/ColivriDigitalTwin" target="_blank">
+<a href="[https://github.com/Juanes1516/ColivriDigitalTwin](https://github.com/imagine-uniandes/ColivriDigitalTwin)" target="_blank">
 <img src="https://img.shields.io/badge/View%20on%20GitHub-3b3b58?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
@@ -103,7 +96,6 @@ Research project combining <b>motion capture</b> and <b>computer vision</b>. We 
 </table>
 </div>
 
----
 
 <h2 align="center"><b>📫 Contact Me</b></h2>
 <div align="center">
@@ -112,7 +104,7 @@ Research project combining <b>motion capture</b> and <b>computer vision</b>. We 
 <a href="https://www.linkedin.com/in/juan-esteban-rodriguez-ospino/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:juanes.rodriguezp@gmail.com">
+<a href="mailto:juanesrodriguezospinop@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>
